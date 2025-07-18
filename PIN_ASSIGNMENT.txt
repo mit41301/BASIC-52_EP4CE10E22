@@ -1,0 +1,18 @@
+PIN_137 -to Rx
+PIN_141 -to Tx
+
+PIN_10 -to SW3
+PIN_7 -to SW1 --RESET
+PIN_23 -to clk_50MHz
+
+PIN_120 -to SCL
+PIN_119 -to SDA
+
+PIN_98 -to LED[0]
+PIN_99 -to LED[1]
+PIN_100 -to LED[2]
+PIN_101 -to LED[3]
+PIN_103 -to LED[4]
+PIN_104 -to LED[5]
+PIN_105 -to LED[6]
+PIN_106 -to LED[7]
