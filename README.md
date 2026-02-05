@@ -1,11 +1,15 @@
 ## EP4CE10E22C8
 <img width="1330" height="997" alt="ep4ce10" src="https://github.com/user-attachments/assets/e46e90e5-16e4-4ad2-a93c-24b7e8b7df9c" />
 
+
 JP3 I2C  
+
+SDA		PIN_119 
 SCL		PIN_120  
-SDA		PIN_119  
+ 
 
-JP2 UART  
+JP2 UART (3V3)  
 
-Txd232	PIN_141  
-RxD232	PIN_137  
+RxD232	PIN_137  <-- Tx USB-TTL  
+Txd232	PIN_141  <-- Rx USB-TTL  
+ 
