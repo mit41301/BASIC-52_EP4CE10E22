@@ -12,6 +12,9 @@ JP2 UART (3V3)
 
 RxD232	PIN_137  <-- Tx USB-TTL  
 Txd232	PIN_141  <-- Rx USB-TTL  
+
+<img width="641" height="865" alt="image" src="https://github.com/user-attachments/assets/c07ad375-d3a7-4fa1-959f-40c24673ca1a" />
+
  
 <img width="161" height="193" alt="image" src="https://github.com/user-attachments/assets/1d86359e-b5e4-499f-91b0-7ac710055e9c" />
 
