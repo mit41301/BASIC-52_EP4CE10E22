@@ -14,3 +14,7 @@ RxD232	PIN_137  <-- Tx USB-TTL
 Txd232	PIN_141  <-- Rx USB-TTL  
  
 <img width="161" height="193" alt="image" src="https://github.com/user-attachments/assets/1d86359e-b5e4-499f-91b0-7ac710055e9c" />
+
+<img width="161" height="265" alt="image" src="https://github.com/user-attachments/assets/62eeabf2-d54e-4418-9bcf-3b3abf21d87a" />
+
+<img width="161" height="313" alt="image" src="https://github.com/user-attachments/assets/e49702f5-684f-472b-87d3-b87a07f3df74" />
